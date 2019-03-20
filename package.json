@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/strophe/strophejs-plugin-ping#readme",
   "dependencies": {
-    "strophe.js": "^1.2.12"
+    "strophe.js": "github:jonrmar/strophejs"
   }
 }
