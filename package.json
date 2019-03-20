@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strophe/strophejs-plugin-ping.git"
+    "url": "git+https://github.com/jonrmar/strophejs-plugin-ping.git"
   },
   "keywords": [
     "strophe.js",
